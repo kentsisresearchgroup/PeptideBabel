@@ -1,6 +1,6 @@
 # PeptideBabel
 Python script for generation of novel bioactive peptide sequences using Metropolis-Hastings sampling
-#Overview
+# Overview
 This algorithm generates novel peptides by exploring the sequence space around known and predicted penetration domains (or other bioactive sequences), using Markov chain Monte Carlo sampling (Metropolis-Hastings) with permutation of seed sequences mapped to a density function based on physicochemical features. This allows efficient generation of hundreds to millions of peptide sequences for subsequent empiric validation, tailored to application based on input peptides. Our initial implementation of this algorithm was to generate lists of potential cell-penetration peptides.
 # Manifest
 NoteBooks: 
