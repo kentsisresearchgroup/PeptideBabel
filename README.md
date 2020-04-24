@@ -9,7 +9,9 @@ library-design-2-with-physicochemical-density-estimation.ipynb - Jupyter noteboo
 
 peptide properties master table generator.ipynb – Jupyter notebook with script to calculate peptide properties
 
-k-mers.ipynb -Jupyter notebook with alternative version of PeptideBabel, using k-mer features alone, without the physiochemical properties
+k-mers.ipynb - Generates unique k-mers from seed library
+
+k-mer-kernel baseline.ipynb -Jupyter notebook with alternative version of PeptideBabel, using k-mer features alone, without the physiochemical properties
 
 Data: 
 
