@@ -5,13 +5,17 @@ This algorithm generates novel peptides by exploring the sequence space around k
 # Manifest
 NoteBooks: 
 
+Design:
+
 library-design-2-with-physicochemical-density-estimation.ipynb - Jupyter notebook with most current PeptideBabel script
+
+k-mer-kernel baseline.ipynb -Jupyter notebook with alternative version of PeptideBabel, using k-mer features alone, without the physiochemical properties
+
+Analysis:
 
 peptide properties master table generator.ipynb – Jupyter notebook with script to calculate peptide properties
 
 k-mers.ipynb - Generates unique k-mers from seed library
-
-k-mer-kernel baseline.ipynb -Jupyter notebook with alternative version of PeptideBabel, using k-mer features alone, without the physiochemical properties
 
 Data: 
 
