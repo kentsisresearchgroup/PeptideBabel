@@ -3,15 +3,13 @@ Python script for generation of novel bioactive peptide sequences using Metropol
 # Overview
 This algorithm generates novel peptides by exploring the sequence space around known and predicted penetration domains (or other bioactive sequences), using Markov chain Monte Carlo sampling (Metropolis-Hastings) with permutation of seed sequences mapped to a density function based on physicochemical features. This allows efficient generation of hundreds to millions of peptide sequences for subsequent empiric validation, tailored to application based on input peptides. Our initial implementation of this algorithm was to generate lists of potential cell-penetration peptides.
 # Manifest
-NoteBooks: 
-
-Design:
+Design Notebooks:
 
 library-design-2-with-physicochemical-density-estimation.ipynb - Jupyter notebook with most current PeptideBabel script
 
 k-mer-kernel baseline.ipynb -Jupyter notebook with alternative version of PeptideBabel, using k-mer features alone, without the physiochemical properties
 
-Analysis:
+Analysis Notebooks:
 
 peptide properties master table generator.ipynb – Jupyter notebook with script to calculate peptide properties
 
