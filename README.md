@@ -77,4 +77,3 @@ Nicole McNeer | mcneern@mskcc.org
 
 Alex Kentsis | kentsisresearchgroup@gmail.com
 
-John Chodera | john.chodera@choderalab.org
