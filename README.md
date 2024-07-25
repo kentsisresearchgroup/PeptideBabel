@@ -69,11 +69,17 @@ pyteomics (preferred way to install is pip Python package manager)
 
 •	Analyses of output peptides and correlation times included 
 
-# Authors
+# Reference
 
-Josh Fass | josh.fass@choderalab.org
+Proteomic Barcoding Platform for Macromolecular Screening and Delivery
 
-Nicole McNeer | mcneern@mskcc.org
+Ning Wang, Nicole A Mcneer, Elliot Eton, Josh Fass, Alex Kentsis
 
-Alex Kentsis | kentsisresearchgroup@gmail.com
+J Proteome Res 2024 Jun 7;23(6):2067-2077
+
+doi: 10.1021/acs.jproteome.4c00068
+
+https://pubmed.ncbi.nlm.nih.gov/38776430/
+
+
 
